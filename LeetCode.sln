@@ -37,7 +37,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_88. 合并两个有序数�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_350. 两个数组的交集 II", "_350. 两个数组的交集 II\_350. 两个数组的交集 II.csproj", "{ADF710B0-87E3-4D19-9C17-8F03E27E2253}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_冒泡排序", "_冒泡排序\_冒泡排序.csproj", "{46040E43-F553-4E05-8122-3E0543532604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_冒泡排序", "_冒泡排序\_冒泡排序.csproj", "{46040E43-F553-4E05-8122-3E0543532604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最小路径和", "最小路径和\最小路径和.csproj", "{508B14D7-B6BC-4783-89D4-D934CCDD9D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{46040E43-F553-4E05-8122-3E0543532604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46040E43-F553-4E05-8122-3E0543532604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46040E43-F553-4E05-8122-3E0543532604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508B14D7-B6BC-4783-89D4-D934CCDD9D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508B14D7-B6BC-4783-89D4-D934CCDD9D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508B14D7-B6BC-4783-89D4-D934CCDD9D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508B14D7-B6BC-4783-89D4-D934CCDD9D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
