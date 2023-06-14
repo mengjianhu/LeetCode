@@ -17,6 +17,9 @@ namespace _027移除元素
             Console.WriteLine(Solution.RemoveElement(ss, 3));
         }
     }
+    /// <summary>
+    /// 时间复杂度 O(N)  空间复杂度O(1)
+    /// </summary>
     public static class Solution
     {
         public static int RemoveElement(int[] nums, int val)
